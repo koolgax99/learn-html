@@ -19,7 +19,9 @@
 3. What is the purpose of the _name_ attribute in the _input_ tag?
 - The name of the input we want to give 
 4. What is the purpose of the _type_ attrbute in the _input_ tag?
-
+- The type of input you want to give to the tag
 5. What is the purpose of the _label_ tag?
+- Gives a label on top of input tag
 6. What is the purpose of the _required_ attribute?
+- This makes the user to compulsorily fill the details where required in there.
 
